@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A hard working student from England</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Unreal Engine 5**
 
 - 💬 Ask me about **Overwatch 2**
 
 - 📫 How to reach me **Arzoli#2165 (Battle.net)**
 
-- ⚡ Fun fact **Masters 5 Support Peak (Lucio Main) and Soulsborne Fanatic**
+- ⚡ Fun fact **Masters 5 Support / DPS Peak (Lucio Main) and Soulsborne Fanatic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
